@@ -2,5 +2,3 @@ numpy==1.16.*
 matplotlib==3.*
 pandas
 IPython
-io
-urllib
